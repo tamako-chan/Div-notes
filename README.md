@@ -19,4 +19,4 @@ Sem 6              | [link](/6th-Sem)         |
 
 
 
-> This site is open sourced in github at repository - [github link.](https://github.com/Nandan-N/notes-site) Feel free to hop in and contribute! :)
+> This site is open sourced in github at repository - [github link.](https://github.com/tamako-chan/Div-notes) Feel free to hop in and contribute! :)
