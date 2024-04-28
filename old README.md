@@ -1,2 +1,0 @@
-# Div-notes
-Div notes
